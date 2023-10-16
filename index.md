@@ -1,5 +1,5 @@
 ---
-layout: workshop      # DON'T CHANGE THIS.
+layout: lesson      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 venue: "FIXME"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "FIXME"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
